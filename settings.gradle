@@ -1,0 +1,1 @@
+include ':yuanzhou', ':choujiang1', ':myjisuanqi', ':register', ':myadroid', ':weixin', ':android_5_1', ':android_5_2', ':android_5_4', ':wechat', ':android_5_5', ':android_5_6', ':android_5_7', ':android_5_8', ':android_6'

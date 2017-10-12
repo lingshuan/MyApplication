@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.wechat.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/ll_1"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="700dp">
+        <ListView
+            android:layout_margin="5dp"
+            android:id="@+id/lv_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </ListView>
+
+    </LinearLayout>
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <RadioGroup
+            android:id="@+id/radioGroup"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/white"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/rb_chat"
+                android:checked="true"
+                android:text="微信"
+                android:drawableTop="@drawable/rb_chat_selector"
+                style="@style/style_RadioButton"/>
+
+            <RadioButton
+                android:id="@+id/rb_contacts"
+                android:text="通讯录"
+                android:drawableTop="@drawable/rb_contacts_selector"
+                style="@style/style_RadioButton"/>
+
+            <RadioButton
+                android:id="@+id/rb_discovery"
+                android:text="发现"
+                android:drawableTop="@drawable/rb_discovery_selector"
+                style="@style/style_RadioButton"/>
+            <RadioButton
+                android:id="@+id/rb_me"
+                android:text="我"
+                android:drawableTop="@drawable/rb_me_selector"
+                style="@style/style_RadioButton"/>
+        </RadioGroup>
+
+    </LinearLayout>
+
+
+</LinearLayout>

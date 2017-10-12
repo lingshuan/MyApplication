@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_5_1/android_5_1.iml" filepath="$PROJECT_DIR$/android_5_1/android_5_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_5_2/android_5_2.iml" filepath="$PROJECT_DIR$/android_5_2/android_5_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_5_4/android_5_4.iml" filepath="$PROJECT_DIR$/android_5_4/android_5_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_5_5/android_5_5.iml" filepath="$PROJECT_DIR$/android_5_5/android_5_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_5_6/android_5_6.iml" filepath="$PROJECT_DIR$/android_5_6/android_5_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_5_7/android_5_7.iml" filepath="$PROJECT_DIR$/android_5_7/android_5_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_5_8/android_5_8.iml" filepath="$PROJECT_DIR$/android_5_8/android_5_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_6/android_6.iml" filepath="$PROJECT_DIR$/android_6/android_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/choujiang1/choujiang1.iml" filepath="$PROJECT_DIR$/choujiang1/choujiang1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myadroid/myadroid.iml" filepath="$PROJECT_DIR$/myadroid/myadroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myjisuanqi/myjisuanqi.iml" filepath="$PROJECT_DIR$/myjisuanqi/myjisuanqi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/register/register.iml" filepath="$PROJECT_DIR$/register/register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wechat/wechat.iml" filepath="$PROJECT_DIR$/wechat/wechat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin/weixin.iml" filepath="$PROJECT_DIR$/weixin/weixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yuanzhou/yuanzhou.iml" filepath="$PROJECT_DIR$/yuanzhou/yuanzhou.iml" />
+    </modules>
+  </component>
+</project>

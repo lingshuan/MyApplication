@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/android_5_1" />
+            <option value="$PROJECT_DIR$/android_5_2" />
+            <option value="$PROJECT_DIR$/android_5_4" />
+            <option value="$PROJECT_DIR$/android_5_5" />
+            <option value="$PROJECT_DIR$/android_5_6" />
+            <option value="$PROJECT_DIR$/android_5_7" />
+            <option value="$PROJECT_DIR$/android_5_8" />
+            <option value="$PROJECT_DIR$/android_6" />
+            <option value="$PROJECT_DIR$/choujiang1" />
+            <option value="$PROJECT_DIR$/myadroid" />
+            <option value="$PROJECT_DIR$/myjisuanqi" />
+            <option value="$PROJECT_DIR$/register" />
+            <option value="$PROJECT_DIR$/wechat" />
+            <option value="$PROJECT_DIR$/weixin" />
+            <option value="$PROJECT_DIR$/yuanzhou" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
